@@ -4,7 +4,7 @@ metadata:
   name: backstage-example-component
   annotations:
     github.com/project-slug: numeroflip/backstage-example-component
-    backstage.io/adr-location: docs/decisions
+    backstage.io/adr-location: ./docs/decisions/
 spec:
   type: other
   lifecycle: unknown
