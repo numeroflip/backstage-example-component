@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-example-component
+  annotations:
+    github.com/project-slug: numeroflip/backstage-example-component
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
